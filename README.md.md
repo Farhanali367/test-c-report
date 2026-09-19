@@ -78,6 +78,6 @@ The C programs were tested using different inputs and basic programming scenario
 
 ## 👨‍💻 Author
 
-**Student Developer**
+**Farhanali367**
 
 > This repository is created for learning, testing, and documenting C programming work.
